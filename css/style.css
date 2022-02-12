@@ -553,7 +553,12 @@ body {
 }
 .profile .profile-content .profile-body {
   margin-top: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
+}
+.profile .profile-content .profile-text {
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  margin-top: 0.8rem;
 }
 .profile .profile-content .profile-title {
   font-size: 1.75rem;
@@ -569,6 +574,8 @@ body {
   color: #fff;
 }
 .profile .profile-content .profile-link {
+  margin-right: 10px;
+  display: inline-block;
   margin-top: 0;
   margin-bottom: 0.75rem;
   font-size: 0.875rem;
