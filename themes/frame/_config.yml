@@ -32,7 +32,7 @@ profile:
   image: images/kenny.png
   links:
     Home: /
-    Articles: /archive/
+    Articles: /categories/gallery/
 
 # footer
 footer:
